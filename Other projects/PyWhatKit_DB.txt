@@ -1,0 +1,55 @@
+Date: 26/2/2022
+Time: 18:54
+Phone Number: +6587567278
+Message: this si great
+--------------------
+Date: 26/2/2022
+Time: 18:56
+Phone Number: +6591655655
+Message: this is sent in python
+--------------------
+Date: 26/2/2022
+Time: 19:22
+Phone Number: +6591655655
+Message: that previous msg is not sent using python
+--------------------
+Date: 26/2/2022
+Time: 20:16
+Phone Number: +65 80387739
+Message: saying that is not very good
+--------------------
+Date: 26/2/2022
+Time: 20:17
+Phone Number: +65 80387739
+Message: this is what u call that
+--------------------
+Date: 27/2/2022
+Time: 18:15
+Phone Number: +6587567278
+Message: how do u do
+--------------------
+Date: 27/2/2022
+Time: 19:16
+Group ID: Hwa Chong 1O2-Ortus 2022
+Message: This is a test for me to try sending whatsapp msg with pywhatskit
+--------------------
+Date: 27/2/2022
+Time: 19:18
+Group ID: Hwa Chong 1O2-Ortus 2022
+Message: This is a test for me to try sending whatsapp msg with pywhatskit
+--------------------
+Date: 28/2/2022
+Time: 20:26
+Phone Number: +65 9109 7881
+Message: how do u do
+--------------------
+Date: 27/3/2022
+Time: 12:20
+Phone Number: +65 9165 5655
+Message: I will send u to jesus
+--------------------
+Date: 27/3/2022
+Time: 12:35
+Phone Number: +65 9165 5655
+Message: I will send u to jesus
+--------------------
